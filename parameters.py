@@ -2,8 +2,8 @@ import cst
 from math import pi
 
 # directory to store/read data
-fdir = '/Users/wenbinlu/Documents/Research/PD_projects/rprocess_late_time/data_tables/'
-figdir = '/Users/wenbinlu/Documents/Research/PD_projects/rprocess_late_time/figs/'
+fdir = './data_tables/'
+figdir = './figs/'
 
 
 # other parameters
