@@ -19,7 +19,7 @@ keV = 1e3*eV
 MeV = 1e6*eV
 GeV = 1e9*eV
 
-kapT = 0.34       # opacity from Thomson scattering
+kapT = 0.340       # opacity from Thomson scattering
 kapbf = 4.3e25   # bound-free opacity = KAPPA_BF*rho*T^(-3.5)
 
 H0 = 7.0e9/3.09e27   # Hubble's constant, in s^-1
