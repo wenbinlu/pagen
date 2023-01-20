@@ -3,7 +3,7 @@ Weak reaction rates and neutrino opacities in a plasma with protons (p), neutron
 
 The underlying assumptions are: (1) all 'pnega' species are in LTE at the same temperature T; (2) neutrinoes are non-degenerate and the plasma is optically thin to neutrinos; (3) p, n, a are described by (non-degenerate, non-relativistic) Maxwell-Boltzmann distributions; (4) electron-positrons are described by Fermi-Dirac distributions (allowing for arbitrary degeneracy and relativistic temperatures); (5) gamma-rays are described by the Planck distribution; (6) the only nuclides in the system are p, n, a (other nuclides are photo-disintegrated); (7) neutrino opacities only include scattering and absorption by p, n, a (ignoring inelastic collisions with pairs).
 
-All quantities only depends on three independent thermodynamic variables: Ye (electron fraction), Theta (dimensionless temperature), eta = (mu-1)/Theta (mu is the electron chemical potential). Some quantities only depend on Theta and eta.
+All quantities only depends on three independent thermodynamic variables: Ye (electron fraction), Theta (dimensionless temperature), eta = (mu-1)/Theta (mu is the electron chemical potential). Some quantities only depend on Theta and eta. For more details, please see 'pnega.pdf'.
 
 The output options include: pair pressure, total density, pair entropy, cooling rates due to neutrino/anti-neutrino emission, electron/positron capture rates, Rosseland-mean/Planck-mean opacities.
 
