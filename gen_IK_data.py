@@ -7,7 +7,7 @@ from scipy.interpolate import interp1d
 import multiprocessing
 from multiprocessing import Process
 
-# NOTE: need to run 'generate_F2F3_data.py' first (unless 'FN.txt' are already in fdir)
+# NOTE: need to run 'gen_F_data.py' first (unless 'FN.txt' are already in fdir)
 
 # maximum particle energy considered (for pairs and neutrinos)
 xmax = max(15. + 10**(logthe_arr.max()), 40.)
