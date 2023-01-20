@@ -1,2 +1,2 @@
 # pnega
-weak reaction rates in a plasma with protons, neutrons, electron-position pairs, gamma-rays, and alpha particles
+weak reaction rates and neutrino opacities in a plasma with protons (p), neutrons (n), electron-position pairs (e), gamma-rays (g), and alpha particles (a)
