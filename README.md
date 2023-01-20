@@ -21,16 +21,16 @@ Now all the relevant numerical tables are stored. You can in principle calculate
 
 For instance, to plot electron-capture rate = neutrino emission rate per proton as a function of eta and Theta, you choose
 
-plt_name = 'I'
-n = 6
+plt_name = 'I',
+n = 6,
 Ye = 0.3 (in fact, lam_nu does not depend on Ye)
 
 By running 'Python plt_numeric_data.py', you will obtain a figure named 'lam_ep.png' in the directory specified by 'figdir'.
 
 To plot the positron capture rate = anti-neutrino emission rate per neutron as a function of eta and Theta, you choose
 
-plt_name = 'I'
-n = 7
+plt_name = 'I',
+n = 7,
 Ye = 0.3 (in fact, lam_bnu does not depend on Ye)
 
 Then you will obtain a figure named 'lam_en.png'.
